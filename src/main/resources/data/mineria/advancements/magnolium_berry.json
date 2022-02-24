@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "mineria:magnolium_berry"
+    },
+    "title": "Light as a feather",
+    "description": "Craft Sweet Magnolium Berries",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mineria:magnolium_ingot",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mineria:magnolium_berry"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

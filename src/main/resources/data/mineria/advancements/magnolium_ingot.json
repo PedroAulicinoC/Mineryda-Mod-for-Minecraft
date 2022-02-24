@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "mineria:magnolium_ingot"
+    },
+    "title": "Weird Ingot",
+    "description": "Smelt an magnolium ingot",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mineria:mineria",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mineria:magnolium_ingot"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

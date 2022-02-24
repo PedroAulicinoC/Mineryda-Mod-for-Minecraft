@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mineria:magnolium_raw"
+    }
+  },
+  "result": {
+    "item": "mineria:magnolium_raw_block"
+  }
+}

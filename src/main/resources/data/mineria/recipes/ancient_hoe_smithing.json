@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_hoe"
+  },
+  "addition": {
+    "item": "mineria:ancient_bone"
+  },
+  "result": {
+    "item": "mineria:ancient_hoe"
+  }
+}

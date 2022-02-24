@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mineria:magnolium_nugget"
+    },
+    "X": {
+      "item": "minecraft:sweet_berries"
+    }
+  },
+  "result": {
+    "item": "mineria:magnolium_berry"
+  }
+}

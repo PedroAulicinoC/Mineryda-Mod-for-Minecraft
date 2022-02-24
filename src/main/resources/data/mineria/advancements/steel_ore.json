@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "mineria:steel_ingot"
+    },
+    "title": "Stronger than diamonds",
+    "description": "Mine Nether Steel",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mineria:flamma_ore",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mineria:steel_raw"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

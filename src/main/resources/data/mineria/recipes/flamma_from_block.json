@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mineria:flamma_block"
+    }
+  ],
+  "result": {
+    "item": "mineria:flamma_crystal",
+    "count": 9
+  }
+}

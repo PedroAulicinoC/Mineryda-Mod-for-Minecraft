@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mineria:steel_raw_block"
+    }
+  ],
+  "result": {
+    "item": "mineria:steel_raw",
+    "count": 9
+  }
+}

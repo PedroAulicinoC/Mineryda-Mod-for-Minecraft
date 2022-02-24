@@ -1,0 +1,46 @@
+{
+  "display": {
+    "icon": {
+      "item": "mineria:steel_helmet"
+    },
+    "title": "This is the Way",
+    "description": "Craft a full set of Nether Steel armor",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mineria:steel_ore",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items":
+        [
+          {
+            "items": [
+              "mineria:steel_helmet"
+            ]
+          },
+
+          {
+            "items": [
+              "mineria:steel_chestplate"
+            ]
+          },
+
+          {
+            "items": [
+              "mineria:steel_leggings"
+            ]
+          },
+
+          {
+            "items": [
+              "mineria:steel_boots"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

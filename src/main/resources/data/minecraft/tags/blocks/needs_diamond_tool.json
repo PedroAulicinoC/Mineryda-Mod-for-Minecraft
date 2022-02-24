@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values":
+  [
+    "mineria:steel_ore",
+    "mineria:steel_raw_block",
+    "mineria:steel_block"
+  ]
+}

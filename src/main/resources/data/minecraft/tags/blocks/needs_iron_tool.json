@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values":
+  [
+    "mineria:ancient_stone",
+    "mineria:magnolium_ore",
+    "mineria:magnolium_deepslate",
+    "mineria:magnolium_raw_block",
+    "mineria:magnolium_block",
+    "mineria:flamma_block",
+    "mineria:flamma_ore"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "mineria:magic_berry"
+    },
+    "title": "Very crunchy!",
+    "description": "Eat Magic Glow Berries",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mineria:amethyst_tool",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mineria:magic_berry"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

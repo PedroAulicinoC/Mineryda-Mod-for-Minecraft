@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    "X#",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "mineria:magnolium_ingot"
+    }
+  },
+  "result": {
+    "item": "mineria:magnolium_axe"
+  }
+}

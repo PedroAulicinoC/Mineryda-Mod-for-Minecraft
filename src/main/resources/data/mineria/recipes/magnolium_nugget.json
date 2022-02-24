@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mineria:magnolium_ingot"
+    }
+  ],
+  "result": {
+    "item": "mineria:magnolium_nugget",
+    "count": 9
+  }
+}

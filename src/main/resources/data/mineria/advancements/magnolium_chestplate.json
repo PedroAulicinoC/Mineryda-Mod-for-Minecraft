@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "mineria:magnolium_chestplate"
+    },
+    "title": "Moving target",
+    "description": "Craft a Magnolium Chestplate",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mineria:magnolium_berry",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mineria:magnolium_chestplate"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

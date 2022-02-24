@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "mineria:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "mineria:steel_pickaxe"
+  }
+}

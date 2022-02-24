@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "iron_ingot",
+  "ingredient": {
+    "item": "mineria:steel_raw"
+  },
+  "result": "mineria:steel_ingot",
+  "experience": 0.9,
+  "cookingtime": 100
+}

@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "title": "Amethyst is Magic!",
+    "description": "Upgrade a Diamond Pickaxe using amethyst",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mineria:diamond_tool",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mineria:amethyst_pickaxe"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

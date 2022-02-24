@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "mineria:magnolium_ingot"
+    }
+  },
+  "result": {
+    "item": "mineria:magnolium_chestplate"
+  }
+}

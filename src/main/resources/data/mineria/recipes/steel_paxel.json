@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYZ",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "mineria:steel_axe"
+    },
+    "Y": {
+      "item": "mineria:steel_shovel"
+    },
+    "Z": {
+      "item": "mineria:steel_pickaxe"
+    }
+  },
+  "result": {
+    "item": "mineria:steel_paxel"
+  }
+}

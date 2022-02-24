@@ -1,0 +1,45 @@
+{
+  "display": {
+    "icon": {
+      "item": "mineria:bone_helmet"
+    },
+    "title": "Halloween costume",
+    "description": "Craft a full set of Ancient armor",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "mineria:ancient_ore",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mineria:bone_helmet"
+            ]
+          },
+
+          {
+            "items": [
+              "mineria:bone_chestplate"
+            ]
+          },
+
+          {
+            "items": [
+              "mineria:bone_leggings"
+            ]
+          },
+
+          {
+            "items": [
+              "mineria:bone_boots"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

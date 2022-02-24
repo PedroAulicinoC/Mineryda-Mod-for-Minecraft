@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "mineria:steel_raw"
+  },
+  "result": "mineria:steel_ingot",
+  "experience": 0.9,
+  "cookingtime": 200
+}

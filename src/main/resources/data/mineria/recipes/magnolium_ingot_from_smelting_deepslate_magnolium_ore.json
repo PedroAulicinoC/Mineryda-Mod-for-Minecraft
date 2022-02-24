@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "mineria:magnolium_deepslate"
+  },
+  "result": "mineria:magnolium_ingot",
+  "experience": 0.8,
+  "cookingtime": 200
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "mineria:magnolium_raw"
+  },
+  "result": "mineria:magnolium_ingot",
+  "experience": 0.8,
+  "cookingtime": 100
+}

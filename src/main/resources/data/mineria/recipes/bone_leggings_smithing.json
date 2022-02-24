@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_leggings"
+  },
+  "addition": {
+    "item": "mineria:ancient_bone"
+  },
+  "result": {
+    "item": "mineria:bone_leggings"
+  }
+}
